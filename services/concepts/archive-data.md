@@ -8,7 +8,8 @@ sidebar_position: 2
 Archive data is data on the blockchain that is older than 128 blocks.
 
 :::caution important
-For users on [Infura's credit pricing plan](../get-started/pricing/index.md), requests for
+For users on [Infura's credit pricing plan](../get-started/pricing/inde
+x.md), requests for
 archive data currently cost the same as non-archive data, but this might change in the future.
 :::
 
